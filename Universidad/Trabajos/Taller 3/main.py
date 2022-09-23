@@ -2,6 +2,6 @@
 
 
 comoseria=()
-si ob puej
+
 print ("Hola mundo")
-castre
+
